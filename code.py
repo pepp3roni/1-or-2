@@ -8,4 +8,4 @@ elif vibor == cifra:
     print(f"Молодец, ты выбрал число {vibor}, и угадал!")
     exit
 else:
-    print("Не угадал!")
+    print("Не угадал! ")
