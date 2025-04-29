@@ -9,3 +9,4 @@ elif vibor == cifra:
     exit
 else:
     print("Не угадал! ")
+ 
